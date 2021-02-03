@@ -1,27 +1,61 @@
 {
     "success": true,
-    "data": [
-        {
-            "id": 1,
-            "name": "TEST ACCOUNT",
-            "image": "assets/benner_genshin_impact.jpg",
-            "history_play": [
-                {
-                    "id": 3,
-                    "name": "VALORANT",
-                    "image": "assets/banner_valorant.jpg",
-                    "tanggal": "12 Desember 2020",
-                    "status": true
-                },
-                {
-                    "id": 6,
-                    "name": "FORTNITE",
-                    "image": "assets/banner_fortnite.jpg",
-                    "tanggal": "12 Desember 2020",
-                    "status": false
-                }
-            ]
-        }
-    ],
+    "data": {
+        "id": 1,
+        "name": "TEST ACCOUNT",
+        "image": "assets/benner_genshin_impact.jpg",
+        "history_play": [
+            {
+                "id": 3,
+                "name": "VALORANT",
+                "image": "assets/banner_valorant.jpg",
+                "tanggal": "12 Desember 2020",
+                "status": true,
+                "member": [
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "FORTNITE",
+                "image": "assets/banner_fortnite.jpg",
+                "tanggal": "12 Desember 2020",
+                "status": false,
+                "member": [
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    },
+                    {
+                        "id": 1,
+                        "name": "TEST ACCOUNT"
+                    }
+                ]
+            }
+        ]
+    },
     "message": "Data Games Berhasil Didapat"
 }
