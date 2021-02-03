@@ -14,19 +14,23 @@
                 "member": [
                     {
                         "id": 1,
-                        "name": "TEST ACCOUNT"
+                        "name": "TEST ACCOUNT",
+                        "image": "assets/photo_profile.jpg"
                     },
                     {
                         "id": 1,
-                        "name": "TEST ACCOUNT"
+                        "name": "TEST ACCOUNT X",
+                        "image": "assets/photo_profile.jpg"
                     },
                     {
                         "id": 1,
-                        "name": "TEST ACCOUNT"
+                        "name": "TEST ACCOUNT Y",
+                        "image": "assets/photo_profile.jpg"
                     },
                     {
                         "id": 1,
-                        "name": "TEST ACCOUNT"
+                        "name": "TEST ACCOUNT Z",
+                        "image": "assets/photo_profile.jpg"
                     }
                 ]
             },
