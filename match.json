@@ -12,6 +12,8 @@
                 "roomId": "vvv1",
                 "roomPass": "vvvx",
                 "matchSchedule": "12 Desember 2020",
+                "mapName": "vvvx",
+                "gameMode": "12 Desember 2020",
                 "totalPlayer": 100,
                 "totalJoinedPlayer": 24,
                 "winPrize": 999999,
