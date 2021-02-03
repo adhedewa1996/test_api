@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "data": {
+        "id": 1,
+        "name": "VALORANT",
+        "image": "assets/banner_valorant.jpg",
+        "match": [
+            {
+                "id": 1,
+                "name_macth": "VALORANT X",
+                "image": "assets/banner_valorant.jpg",
+                "roomId": "vvv1",
+                "roomPass": "vvvx",
+                "matchSchedule": "12 Desember 2020",
+                "mapName": "Erangel",
+                "gameMode": "TPP",
+                "totalPlayer": 80,
+                "totalJoinedPlayer": 65,
+                "winPrize": 500000,
+                "entryFee": 100,
+                "matchType": "Single",
+                "matchStatus": "active"
+            }
+        ]
+    },
+    "message": "Data Games Berhasil Didapat"
+}
