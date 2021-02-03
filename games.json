@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "GENSHIN IMPACT",
+            "image": "assets/benner_genshin_impact.jpg"
+        },
+        {
+            "id": 2,
+            "name": "PUBG",
+            "image": "assets/banner_pubg.jpg"
+        }
+    ],
+    "message": "Data Games Berhasil Didapat"
+}
