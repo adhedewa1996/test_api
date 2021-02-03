@@ -18,7 +18,7 @@
                 "totalJoinedPlayer": 24,
                 "winPrize": 999999,
                 "entryFee": 100,
-                "matchType": "single",
+                "matchType": "Single",
                 "matchStatus": "start"
             }
         ]
