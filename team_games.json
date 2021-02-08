@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 2,
+            "name": "PUBG",
+            "image": "assets/banner_pubg.jpg"
+        },
+        {
+            "id": 4,
+            "name": "VALORANT",
+            "image": "assets/banner_valorant.jpg"
+        }
+    ],
+    "message": "Data Games Berhasil Didapat"
+}
