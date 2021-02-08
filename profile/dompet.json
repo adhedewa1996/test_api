@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "GENSHIN IMPACT",
+            "image": "assets/benner_genshin_impact.jpg",
+            "money": [
+                {
+                    "id": 1,
+                    "name": "Token"
+                },
+                {
+                    "id": 1,
+                    "name": "Poin"
+                },
+                {
+                    "id": 1,
+                    "name": "Tiket"
+                },
+                {
+                    "id": 1,
+                    "name": "Earning"
+                }
+            ]
+        }
+    ],
+    "message": "Data Games Berhasil Didapat"
+}
