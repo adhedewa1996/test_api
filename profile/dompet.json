@@ -3,27 +3,53 @@
     "data": [
         {
             "id": 1,
-            "name": "GENSHIN IMPACT",
-            "image": "assets/benner_genshin_impact.jpg",
+            "win_amount": "999999",
             "money": [
                 {
                     "id": 1,
-                    "name": "Token"
+                    "name": "Token",
+                    "amount": "999999"
                 },
                 {
-                    "id": 1,
-                    "name": "Poin"
+                    "id": 2,
+                    "name": "Poin",
+                    "amount": "999999"
                 },
                 {
-                    "id": 1,
-                    "name": "Tiket"
+                    "id": 3,
+                    "name": "Tiket",
+                    "amount": "999999"
                 },
                 {
+                    "id": 4,
+                    "name": "Earning",
+                    "amount": "999999"
+                }
+            ],
+            "history": [
+                {
                     "id": 1,
-                    "name": "Earning"
+                    "name": "Token",
+                    "amount": "999999",
+                    "keterangan": "Add Token To Join Battle",
+                    "date": "12 Desember 2020"
+                },
+                {
+                    "id": 2,
+                    "name": "Token",
+                    "amount": "999999",
+                    "keterangan": "Add Token To Join Battle",
+                    "date": "13 Desember 2020"
+                },
+                {
+                    "id": 3,
+                    "name": "Token",
+                    "amount": "999999",
+                    "keterangan": "Add Token To Join Battle",
+                    "date": "14 Desember 2020"
                 }
             ]
         }
     ],
-    "message": "Data Games Berhasil Didapat"
+    "message": "Data Dompet Berhasil Didapat"
 }
