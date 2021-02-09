@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "data": {
+        "id": 1,
+        "member": [
+            {
+                "id": 1,
+                "name": "Player 1",
+                "score": 9999,
+                "isLeader": true
+            },
+            {
+                "id": 2,
+                "name": "Player 2",
+                "score": 9999,
+                "isLeader": true
+            },
+            {
+                "id": 3,
+                "name": "Player 3",
+                "score": 9999,
+                "isLeader": true
+            },
+            {
+                "id": 4,
+                "name": "Player 4",
+                "score": 9999,
+                "isLeader": true
+            }
+        ]
+    },
+    "message": "Data Team Berhasil Didapat"
+}
