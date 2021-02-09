@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "data": {
+        "id": 1,
+        "top_palyer": [
+            {
+                "id": 1,
+                "name": "Danang",
+                "score": 9999
+            },
+            {
+                "id": 2,
+                "name": "Danang 2",
+                "score": 9998
+            },
+            {
+                "id": 3,
+                "name": "Danang 3",
+                "score": 9997
+            },
+            {
+                "id": 4,
+                "name": "Danang 4",
+                "score": 9996
+            }
+        ]
+    },
+    "message": "Data Top Player Berhasil Didapat"
+}
