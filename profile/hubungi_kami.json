@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Chat",
+            "description": "Hubungi Kami Lewat Whatsapp"
+        },
+        {
+            "id": 2,
+            "name": "Email",
+            "description": "Kirim Pesan Lewat Email"
+        },
+        {
+            "id": 3,
+            "name": "Call Center",
+            "description": "Hubungi Langsung Melalui Nomor Berikut"
+        }
+    ],
+    "message": "Data Contact Us Berhasil Didapat"
+}
