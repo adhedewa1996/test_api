@@ -1,0 +1,112 @@
+{
+    "success": true,
+    "data": {
+        "id": 1,
+        "menu_game": [
+            {
+                "id": 1,
+                "name": "FREE FIRE",
+                "status": true,
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 1",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 2",
+                        "score": "9998"
+                    },
+                    {
+                        "id": 3,
+                        "name": "player 3",
+                        "score": "9997"
+                    },
+                    {
+                        "id": 4,
+                        "name": "player 4",
+                        "score": "9996"
+                    },
+                    {
+                        "id": 5,
+                        "name": "player 5",
+                        "score": "9995"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "PUBG",
+                "status": false,
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 2",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 4",
+                        "score": "9998"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "VALORANT",
+                "status": false,
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 2",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 2",
+                        "score": "9998"
+                    },
+                    {
+                        "id": 4,
+                        "name": "player 6",
+                        "score": "9996"
+                    },
+                    {
+                        "id": 5,
+                        "name": "player 5",
+                        "score": "9995"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "FORTNITE",
+                "status": false,
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 5",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 2",
+                        "score": "9998"
+                    },
+                    {
+                        "id": 4,
+                        "name": "player 4",
+                        "score": "9996"
+                    },
+                    {
+                        "id": 5,
+                        "name": "player 6",
+                        "score": "9995"
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Data Leaderboard Berhasil Didapat"
+}
