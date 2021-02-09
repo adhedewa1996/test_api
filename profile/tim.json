@@ -13,19 +13,19 @@
                 "id": 2,
                 "name": "Player 2",
                 "score": 9999,
-                "isLeader": true
+                "isLeader": false
             },
             {
                 "id": 3,
                 "name": "Player 3",
                 "score": 9999,
-                "isLeader": true
+                "isLeader": false
             },
             {
                 "id": 4,
                 "name": "Player 4",
                 "score": 9999,
-                "isLeader": true
+                "isLeader": false
             }
         ]
     },
