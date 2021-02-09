@@ -4,17 +4,20 @@
         {
             "id": 1,
             "name": "Chat",
-            "description": "Hubungi Kami Lewat Whatsapp"
+            "description": "Hubungi Kami Lewat Whatsapp",
+            "numberOrText": "62895376710616" 
         },
         {
             "id": 2,
             "name": "Email",
-            "description": "Kirim Pesan Lewat Email"
+            "description": "Kirim Pesan Lewat Email",
+            "numberOrText": "adhedewa1996@gmail.com" 
         },
         {
             "id": 3,
             "name": "Call Center",
-            "description": "Hubungi Langsung Melalui Nomor Berikut"
+            "description": "Hubungi Langsung Melalui Nomor Berikut",
+            "numberOrText": "62895376710616" 
         }
     ],
     "message": "Data Contact Us Berhasil Didapat"
