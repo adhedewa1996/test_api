@@ -19,7 +19,22 @@
                 "winPrize": 500000,
                 "entryFee": 100,
                 "matchType": "Single",
-                "matchStatus": "active"
+                "matchStatus": "active",
+                "aboutThisMatch": "",
+                "participants": [
+                    {
+                        "id": 1,
+                        "name": "Danang"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Danang 2"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Danang 3"
+                    }
+                ]
             }
         ]
     },
