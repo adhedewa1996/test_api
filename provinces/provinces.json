@@ -1,0 +1,141 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "1",
+            "nama_propinsi": "BANTEN"
+        },
+        {
+            "id": "2",
+            "nama_propinsi": "DKI JAKARTA"
+        },
+        {
+            "id": "3",
+            "nama_propinsi": "JAWA BARAT"
+        },
+        {
+            "id": "4",
+            "nama_propinsi": "JAWA TENGAH"
+        },
+        {
+            "id": "5",
+            "nama_propinsi": "DI YOGYAKARTA"
+        },
+        {
+            "id": "6",
+            "nama_propinsi": "JAWA TIMUR"
+        },
+        {
+            "id": "7",
+            "nama_propinsi": "BALI"
+        },
+        {
+            "id": "8",
+            "nama_propinsi": "NANGGROE ACEH DARUSSALAM (NAD)"
+        },
+        {
+            "id": "9",
+            "nama_propinsi": "SUMATERA UTARA"
+        },
+        {
+            "id": "10",
+            "nama_propinsi": "SUMATERA BARAT"
+        },
+        {
+            "id": "11",
+            "nama_propinsi": "RIAU"
+        },
+        {
+            "id": "12",
+            "nama_propinsi": "KEPULAUAN RIAU"
+        },
+        {
+            "id": "13",
+            "nama_propinsi": "JAMBI"
+        },
+        {
+            "id": "14",
+            "nama_propinsi": "BENGKULU"
+        },
+        {
+            "id": "15",
+            "nama_propinsi": "SUMATERA SELATAN"
+        },
+        {
+            "id": "16",
+            "nama_propinsi": "BANGKA BELITUNG"
+        },
+        {
+            "id": "17",
+            "nama_propinsi": "LAMPUNG"
+        },
+        {
+            "id": "18",
+            "nama_propinsi": "KALIMANTAN BARAT"
+        },
+        {
+            "id": "19",
+            "nama_propinsi": "KALIMANTAN TENGAH"
+        },
+        {
+            "id": "20",
+            "nama_propinsi": "KALIMANTAN SELATAN"
+        },
+        {
+            "id": "21",
+            "nama_propinsi": "KALIMANTAN TIMUR"
+        },
+        {
+            "id": "22",
+            "nama_propinsi": "KALIMANTAN UTARA"
+        },
+        {
+            "id": "23",
+            "nama_propinsi": "SULAWESI BARAT"
+        },
+        {
+            "id": "24",
+            "nama_propinsi": "SULAWESI SELATAN"
+        },
+        {
+            "id": "25",
+            "nama_propinsi": "SULAWESI TENGGARA"
+        },
+        {
+            "id": "26",
+            "nama_propinsi": "SULAWESI TENGAH"
+        },
+        {
+            "id": "27",
+            "nama_propinsi": "GORONTALO"
+        },
+        {
+            "id": "28",
+            "nama_propinsi": "SULAWESI UTARA"
+        },
+        {
+            "id": "29",
+            "nama_propinsi": "MALUKU"
+        },
+        {
+            "id": "30",
+            "nama_propinsi": "MALUKU UTARA"
+        },
+        {
+            "id": "31",
+            "nama_propinsi": "NUSA TENGGARA BARAT (NTB)"
+        },
+        {
+            "id": "32",
+            "nama_propinsi": "NUSA TENGGARA TIMUR (NTT)"
+        },
+        {
+            "id": "33",
+            "nama_propinsi": "PAPUA BARAT"
+        },
+        {
+            "id": "34",
+            "nama_propinsi": "PAPUA"
+        }
+    ]
+}
