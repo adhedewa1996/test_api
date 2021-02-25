@@ -1,109 +1,216 @@
 {
     "success": true,
-    "data": {
-        "id": 1,
-        "menu_game": [
-            {
-                "id": 1,
-                "name": "FREE FIRE",
-                "status": true,
-                "MostTeamGame": {
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                "MostWinning": {
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                "HighestWinRate": {
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                "ProTeam": {
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                "WinnerTeamWeekly": {
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
+    "data": [
+        {
+            "id": 1,
+            "menu_game": [
+                {
+                    "id": 1,
+                    "name": "FREE FIRE",
+                    "status": true,
+                    "MostTeamGame": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "MostWinning": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "HighestWinRate": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "ProTeam": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "WinnerTeamWeekly": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    }
                 }
-            }
-        ]
-    },
+            ]
+        },
+        {
+            "id": 1,
+            "menu_game": [
+                {
+                    "id": 1,
+                    "name": "VALORANT",
+                    "status": true,
+                    "MostTeamGame": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "MostWinning": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "HighestWinRate": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "ProTeam": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    },
+                    "WinnerTeamWeekly": {
+                        "player": [
+                            {
+                                "id": 1,
+                                "name": "player 1",
+                                "score": "9999"
+                            },
+                            {
+                                "id": 2,
+                                "name": "player 2",
+                                "score": "9998"
+                            },
+                            {
+                                "id": 3,
+                                "name": "player 3",
+                                "score": "9997"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
     "message": "Data Leaderboard Berhasil Didapat"
 }
