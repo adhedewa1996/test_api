@@ -1,52 +1,50 @@
 {
     "success": true,
-    "data": [
-        {
-            "id": 1,
-            "nama_game": "FREE FIRE",
-            "category": [
-                {
-                    "nama_category": "Most Team Game",
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                {
-                    "nama_category": "Most Winning",
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 3",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 1",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 5",
-                            "score": "9997"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
+    "data": {
+        "id": 1,
+        "nama_game": "FREE FIRE",
+        "category": [
+            {
+                "nama_category": "Most Team Game",
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 1",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 2",
+                        "score": "9998"
+                    },
+                    {
+                        "id": 3,
+                        "name": "player 3",
+                        "score": "9997"
+                    }
+                ]
+            },
+            {
+                "nama_category": "Most Winning",
+                "player": [
+                    {
+                        "id": 1,
+                        "name": "player 3",
+                        "score": "9999"
+                    },
+                    {
+                        "id": 2,
+                        "name": "player 1",
+                        "score": "9998"
+                    },
+                    {
+                        "id": 3,
+                        "name": "player 5",
+                        "score": "9997"
+                    }
+                ]
+            }
+        ]
+    },
     "message": "Data Leaderboard Berhasil Didapat"
 }
