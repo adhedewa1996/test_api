@@ -1,6 +1,5 @@
 {
-    "success": true,
-    "data": [
+    "provinces": [
         {
             "id": "1",
             "nama_propinsi": "BANTEN"
