@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "PUBG"
+        },
+        {
+            "id": 1,
+            "name": "FREE FIRE"
+        },
+        {
+            "id": 1,
+            "name": "VALORANT"
+        }
+    ],
+    "message": "Data Nama Game Berhasil Didapat"
+}
