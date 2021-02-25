@@ -3,6 +3,7 @@
     "data": [
         {
             "id": 1,
+            "nama_game": "FREE FIRE",
             "MostTeamGame": {
                 "player": [
                     {
