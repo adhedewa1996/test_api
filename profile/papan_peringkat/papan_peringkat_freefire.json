@@ -4,7 +4,7 @@
         {
             "id": 1,
             "nama_game": "FREE FIRE",
-            "categories": [
+            "type_ranking": [
                 {
                     "id": 1,
                     "nama_category": "Most Team Game",
