@@ -3,39 +3,43 @@
     "data": [
         {
             "id": 1,
-            "name": "PUBG"
+            "name": "PUBG",
+            "link": "pubg"
         },
         {
             "id": 1,
-            "name": "FREE FIRE"
+            "name": "FREE FIRE",
+            "link": "freefire"
         },
         {
             "id": 1,
-            "name": "VALORANT"
+            "name": "VALORANT",
+            "link": "valorant"
         },
         {
             "id": 1,
-            "name": "PUBG"
+            "name": "PUBG",
+            "link": "pubg"
         },
         {
             "id": 1,
-            "name": "FREE FIRE"
+            "name": "FREE FIRE",
+            "link": "freefire"
         },
         {
             "id": 1,
-            "name": "VALORANT"
+            "name": "VALORANT",
+            "link": "valorant"
         },
         {
             "id": 1,
-            "name": "PUBG"
+            "name": "PUBG",
+            "link": "pubg"
         },
         {
             "id": 1,
-            "name": "FREE FIRE"
-        },
-        {
-            "id": 1,
-            "name": "VALORANT"
+            "name": "FREE FIRE",
+            "link": "freefire"
         }
     ],
     "message": "Data Nama Game Berhasil Didapat"
