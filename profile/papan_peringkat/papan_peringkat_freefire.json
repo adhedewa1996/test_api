@@ -7,7 +7,7 @@
             "type_ranking": [
                 {
                     "id": 1,
-                    "nama_category": "Highest Winning Rate",
+                    "nama_category": "Tingkat Kemenangan Tertinggi",
                     "player": [
                         {
                             "id": 1,
@@ -28,7 +28,7 @@
                 },
                 {
                     "id": 2,
-                    "nama_category": "Most Winning",
+                    "nama_category": "Paling Sering Menang",
                     "player": [
                         {
                             "id": 1,
@@ -59,7 +59,7 @@
                 },
                 {
                     "id": 2,
-                    "nama_category": "Most Useless Player",
+                    "nama_category": "Pemain Paling Tidak Berguna",
                     "player": [
                         {
                             "id": 1,
