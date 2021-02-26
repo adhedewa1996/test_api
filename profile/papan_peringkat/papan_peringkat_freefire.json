@@ -6,6 +6,7 @@
             "nama_game": "FREE FIRE",
             "categories": [
                 {
+                    "id": 1,
                     "nama_category": "Most Team Game",
                     "player": [
                         {
@@ -26,6 +27,7 @@
                     ]
                 },
                 {
+                    "id": 2,
                     "nama_category": "Most Winning",
                     "player": [
                         {
