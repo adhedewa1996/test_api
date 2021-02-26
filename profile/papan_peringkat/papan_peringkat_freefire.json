@@ -7,7 +7,7 @@
             "type_ranking": [
                 {
                     "id": 1,
-                    "nama_category": "Most Team Game",
+                    "nama_category": "Highest Winning Rate",
                     "player": [
                         {
                             "id": 1,
@@ -29,6 +29,27 @@
                 {
                     "id": 2,
                     "nama_category": "Most Winning",
+                    "player": [
+                        {
+                            "id": 1,
+                            "name": "player 3",
+                            "score": "9999"
+                        },
+                        {
+                            "id": 2,
+                            "name": "player 1",
+                            "score": "9998"
+                        },
+                        {
+                            "id": 3,
+                            "name": "player 5",
+                            "score": "9997"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nama_category": "Most Useless Player",
                     "player": [
                         {
                             "id": 1,
