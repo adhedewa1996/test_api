@@ -3,12 +3,12 @@
     "data": [
         {
             "id": 2,
-            "name": "PUBG",
+            "title": "PUBG",
             "picture": "assets/banner_pubg.jpg"
         },
         {
             "id": 4,
-            "name": "VALORANT",
+            "title": "VALORANT",
             "picture": "assets/banner_valorant.jpg"
         }
     ],

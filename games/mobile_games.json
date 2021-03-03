@@ -3,27 +3,27 @@
     "data": [
         {
             "id": 1,
-            "name": "GENSHIN IMPACT",
+            "title": "GENSHIN IMPACT",
             "picture": "assets/benner_genshin_impact.jpg"
         },
         {
             "id": 2,
-            "name": "PUBG",
+            "title": "PUBG",
             "picture": "assets/banner_pubg.jpg"
         },
         {
             "id": 3,
-            "name": "FREE FIRE",
+            "title": "FREE FIRE",
             "picture": "assets/banner_free_fire.jpg"
         },
         {
             "id": 4,
-            "name": "VALORANT",
+            "title": "VALORANT",
             "picture": "assets/banner_valorant.jpg"
         },
         {
             "id": 5,
-            "name": "FORTNITE",
+            "title": "FORTNITE",
             "picture": "assets/banner_fortnite.jpg"
         }
     ],
