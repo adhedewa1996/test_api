@@ -4,27 +4,27 @@
         {
             "id": 1,
             "name": "GENSHIN IMPACT",
-            "image": "assets/benner_genshin_impact.jpg"
+            "picture": "assets/benner_genshin_impact.jpg"
         },
         {
             "id": 2,
             "name": "PUBG",
-            "image": "assets/banner_pubg.jpg"
+            "picture": "assets/banner_pubg.jpg"
         },
         {
             "id": 3,
             "name": "FREE FIRE",
-            "image": "assets/banner_free_fire.jpg"
+            "picture": "assets/banner_free_fire.jpg"
         },
         {
             "id": 4,
             "name": "VALORANT",
-            "image": "assets/banner_valorant.jpg"
+            "picture": "assets/banner_valorant.jpg"
         },
         {
             "id": 5,
             "name": "FORTNITE",
-            "image": "assets/banner_fortnite.jpg"
+            "picture": "assets/banner_fortnite.jpg"
         }
     ],
     "message": "Data Games Mobile Berhasil Didapat"

@@ -4,12 +4,12 @@
         {
             "id": 2,
             "name": "PUBG",
-            "image": "assets/banner_pubg.jpg"
+            "picture": "assets/banner_pubg.jpg"
         },
         {
             "id": 4,
             "name": "VALORANT",
-            "image": "assets/banner_valorant.jpg"
+            "picture": "assets/banner_valorant.jpg"
         }
     ],
     "message": "Data Games PC Berhasil Didapat"
