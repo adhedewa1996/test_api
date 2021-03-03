@@ -1,44 +1,29 @@
 {
     "success": true,
     "data": {
-        "id": 1,
+        "id": "1",
         "top_palyer": [
             {
                 "id": 1,
-                "name": "Danang",
-                "score": 9999
-            },
-            {
-                "id": 2,
-                "name": "Danang 2",
-                "score": 9998
-            },
-            {
-                "id": 3,
-                "name": "Danang 3",
-                "score": 9997
+                "username": "GAMEBOT",
+                "score": 0
             },
             {
                 "id": 4,
-                "name": "Danang 4",
-                "score": 9996
+                "username": "HIU",
+                "score": 0
             },
             {
                 "id": 5,
-                "name": "Danang 5",
-                "score": 9995
+                "username": "mmmmmnnnnn",
+                "score": 0
             },
             {
                 "id": 6,
-                "name": "Danang 4",
-                "score": 9994
-            },
-            {
-                "id": 7,
-                "name": "Danang 5",
-                "score": 9993
+                "username": "nnnnnmmmmm",
+                "score": 0
             }
         ]
     },
-    "message": "Data Top Player Berhasil Didapat"
+    "message": "Data Peringkat Game Berhasil Didapatkan.z"
 }
