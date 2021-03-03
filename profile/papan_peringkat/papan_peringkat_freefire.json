@@ -1,90 +1,52 @@
 {
     "success": true,
-    "data": [
-        {
-            "id": 1,
-            "nama_game": "FREE FIRE",
-            "type_ranking": [
-                {
-                    "id": 1,
-                    "nama_category": "Tingkat Kemenangan Tertinggi",
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 1",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 2",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 3",
-                            "score": "9997"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "nama_category": "Paling Sering Menang",
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 3",
-                            "score": "9999"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 1",
-                            "score": "9998"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 5",
-                            "score": "9997"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 7",
-                            "score": "9995"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 2",
-                            "score": "9993"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "nama_category": "Pemain Paling Tidak Berguna",
-                    "player": [
-                        {
-                            "id": 1,
-                            "name": "player 9",
-                            "score": "-10"
-                        },
-                        {
-                            "id": 2,
-                            "name": "player 4",
-                            "score": "1"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 8",
-                            "score": "2"
-                        },
-                        {
-                            "id": 3,
-                            "name": "player 11",
-                            "score": "3"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "message": "Data Leaderboard Berhasil Didapat"
+    "data": {
+        "id": "1",
+        "nama_game": "PUBG-PC",
+        "type_ranking": [
+            {
+                "id": "1",
+                "name_category": "Tingkat Kemenangan Tertinggi",
+                "player": [
+                    {
+                        "username": "GAMEBOT",
+                        "score": 0
+                    },
+                    {
+                        "username": "ababababab",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "name_category": "Paling Sering Menang",
+                "player": [
+                    {
+                        "username": "GAMEBOT",
+                        "score": 0
+                    },
+                    {
+                        "username": "ababababab",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "name_category": "Pemain Paling Tidak Berguna",
+                "player": [
+                    {
+                        "username": "GAMEBOT",
+                        "score": 0
+                    },
+                    {
+                        "username": "ababababab",
+                        "score": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Data Peringkat Game Berhasil Didapatkan.z"
 }
