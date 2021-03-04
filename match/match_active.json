@@ -1,30 +1,44 @@
 {
     "success": true,
-    "data": [
-        {
-            "id": 3,
-            "game_id": 4,
-            "match_name": "TEST",
-            "team": "SQUAD",
-            "maps": "1",
-            "mode": "FPP",
-            "picture": "ff.jpg",
-            "match_schedule": "2021-02-26",
-            "prize": "100",
-            "players": "100"
-        },
-        {
-            "id": 8,
-            "game_id": 6,
-            "match_name": "test match",
-            "team": "DUO",
-            "maps": "map x",
-            "mode": "TPP",
-            "picture": "banner_fortnite.jpg",
-            "match_schedule": "2021-03-03",
-            "prize": "100000",
-            "players": "100"
-        }
-    ],
-    "message": "Data Game Match Berhasil Didapatkan.z"
+    "data": {
+        "id": 1,
+        "name": "VALORANT",
+        "image": "assets/banner_valorant.jpg",
+        "match": [
+            {
+                "id": 1,
+                "name_macth": "VALORANT X",
+                "image": "assets/banner_valorant.jpg",
+                "roomId": "vvv1",
+                "roomPass": "vvvx",
+                "matchSchedule": "12 Desember 2020",
+                "mapName": "Erangel",
+                "gameMode": "TPP",
+                "totalPlayer": 80,
+                "totalJoinedPlayer": 65,
+                "winPrize": 500000,
+                "entryFee": 100,
+                "joinType": "Free",
+                "matchType": "Single",
+                "matchStatus": "active",
+                "youtubeURL": "l25rulEXMP8",
+                "aboutThisMatch": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "participants": [
+                    {
+                        "id": 1,
+                        "name": "Danang"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Danang 2"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Danang 3"
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Data Games Berhasil Didapat"
 }
