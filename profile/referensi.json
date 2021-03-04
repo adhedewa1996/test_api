@@ -1,39 +1,22 @@
 {
     "success": true,
     "data": {
-        "id": 1,
         "referense": [
             {
-                "id": 1,
-                "name": "Danang",
-                "asal": "Gunung Kidul",
-                "date": "12 Desember 2020"
+                "id": 13,
+                "username": "test 13",
+                "game_id": "492271",
+                "score": 0,
+                "created_at": "2021-03-04 06:42:50"
             },
             {
-                "id": 2,
-                "name": "Danang 2",
-                "asal": "Gunung Kidul",
-                "date": "14 Desember 2020"
-            },
-            {
-                "id": 3,
-                "name": "Danang 3",
-                "asal": "Gunung Kidul",
-                "date": "15 Desember 2020"
-            },
-            {
-                "id": 4,
-                "name": "Danang 4",
-                "asal": "Gunung Kidul",
-                "date": "19 Desember 2020"
-            },
-            {
-                "id": 5,
-                "name": "Danang 5",
-                "asal": "Gunung Kidul",
-                "date": "21 Desember 2020"
+                "id": 14,
+                "username": "test 14",
+                "game_id": "927135",
+                "score": 0,
+                "created_at": "2021-03-04 06:47:32"
             }
         ]
     },
-    "message": "Data Games Berhasil Didapat"
+    "message": "Reference successfully."
 }
