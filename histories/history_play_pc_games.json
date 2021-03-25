@@ -52,6 +52,14 @@
                         "image": "assets/photo_profile.jpg"
                     }
                 ]
+            },
+            {
+                "id": 7,
+                "name": "FORTNITE",
+                "image": "assets/banner_fortnite.jpg",
+                "tanggal": "12 Desember 2020",
+                "status": false,
+                "member": []
             }
         ]
     },
